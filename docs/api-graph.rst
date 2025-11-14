@@ -1,7 +1,7 @@
 ==========================================================================
 Class Graph
 ==========================================================================
-
+ 
 .. module:: mflowgen.components
 
 A Graph is composed of nodes and edges (i.e., :py:mod:`Node` and
