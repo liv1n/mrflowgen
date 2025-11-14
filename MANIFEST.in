@@ -1,2 +1,2 @@
-global-exclude *.py[cod] __pycache__ *.so *.git
+global-exclude *.py[cod] __pycache__ *.so *.git 
 
