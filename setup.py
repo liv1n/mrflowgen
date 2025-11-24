@@ -6,7 +6,7 @@ setup.py inspired by the PyPA sample project:
 https://github.com/pypa/sampleproject/blob/master/setup.py
 """
 
-from os         import path
+from os         import path  
 from setuptools import find_packages, setup
 import sys
 sys.path.insert(0, path.dirname(__file__))
