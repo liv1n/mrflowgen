@@ -2,7 +2,7 @@
 ========================================================================
 setup.py
 ========================================================================
-setup.py inspired by the PyPA sample project: 
+setup.py inspired by the PyPA sample project:
 https://github.com/pypa/sampleproject/blob/master/setup.py
 """
 

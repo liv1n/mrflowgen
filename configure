@@ -3,7 +3,7 @@
 # configure
 #=========================================================================
 # Legacy entry point for mflowgen command line interface
- 
+
 from mflowgen.cli import main
 
 if __name__ == '__main__':
